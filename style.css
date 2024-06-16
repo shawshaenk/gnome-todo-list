@@ -1,0 +1,44 @@
+* {
+    font-family: "Inter";
+    font-weight: bold;
+    color: white;
+}
+
+body {
+    background-color: #1e1e1e;
+}
+
+#logo {
+    margin: auto;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: -1.5vh;
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+
+#task-box {
+    display: block;
+    margin: auto;   
+    text-align: center; 
+    color: white;
+    background-color: #303030;
+    border: 0px;
+    font-size: 25px;
+    border-radius: 7px;
+    height: 4vh;
+    outline: none;
+}
+
+#checklist {
+    margin-top: 3vh;
+    text-align: center;
+    font-size: 35px;
+}
+
+
+  
