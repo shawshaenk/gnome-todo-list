@@ -33,6 +33,7 @@ taskBox.addEventListener("keydown", function(event) {
             br.remove();
         });
 
+        taskBox.value = '';
         counter += 1;
     }
 });
